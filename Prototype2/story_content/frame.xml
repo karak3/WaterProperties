@@ -1529,11 +1529,12 @@
         <slidelink slideid="_player.5hvD2UgXDKO" displaytext="Mission Control" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5hvD2UgXDKO.63iH9EfeilI" displaytext="Control Room (Main Menu)" expand="false" type="slide" />
+            <slidelink slideid="_player.5hvD2UgXDKO.5yBRTdsHGn8" displaytext="Control Room - Labs" expand="false" type="slide" />
+            <slidelink slideid="_player.5hvD2UgXDKO.6GPiGDSpQiK" displaytext="Mission Control Video" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6W6udCDwrKA" displaytext="Pre-Labs" expand="true" type="slide">
+        <slidelink slideid="_player.6W6udCDwrKA" displaytext="Plant &amp;amp; Water Collection" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6W6udCDwrKA.5y4EqVlzVN5" displaytext="Mission Control Video" expand="false" type="slide" />
             <slidelink slideid="_player.6W6udCDwrKA.6LC3I9fiGz4" displaytext="Naming Plant" expand="false" type="slide" />
             <slidelink slideid="_player.6W6udCDwrKA.6fgaGan69Ui" displaytext="Plant Name Results" expand="false" type="slide" />
             <slidelink slideid="_player.6W6udCDwrKA.63mUm3WLGcN" displaytext="Water Collection 1" expand="false" type="slide" />
@@ -1544,6 +1545,12 @@
         <slidelink slideid="_player.6aA2AfjBOSr" displaytext="Density Lab" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6aA2AfjBOSr.6kYLskBjXMV" displaytext="Density Lab Main" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.6993LsR3i4I" displaytext="Density Lab Manual" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.5ZQR3fMiUox" displaytext="Density Video" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.6nJjVbZ3sYU" displaytext="Density Lab A" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.6nl4Atm9Z9u" displaytext="Density Lab B" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.5wTHo1uTqR4" displaytext="Density Lab C" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.6qUqcdatBKa" displaytext="Density Lab D" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5eadmjCnXRD" displaytext="Temp Moderation Lab" expand="true" type="slide">
@@ -1569,6 +1576,16 @@
         <slidelink slideid="_player.6Iul7A0pmJi" displaytext="Greenhouse" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6Iul7A0pmJi.6T5KZtpY2BN" displaytext="Greenhouse Main" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.641NLDJnkUG" displaytext="Data Sheet Tablet" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.641NLDJnkUG.639AuZgE2AR" displaytext="Data Sheet Main" expand="false" type="slide" />
+            <slidelink slideid="_player.641NLDJnkUG.66iNxOPVjPx" displaytext="Density Data Sheet" expand="false" type="slide" />
+            <slidelink slideid="_player.641NLDJnkUG.6aVU4oaThrw" displaytext="Density Data A" expand="false" type="slide" />
+            <slidelink slideid="_player.641NLDJnkUG.60EQDZ8XKvn" displaytext="Density Data B" expand="false" type="slide" />
+            <slidelink slideid="_player.641NLDJnkUG.6W8grUilYwT" displaytext="Density Data C" expand="false" type="slide" />
+            <slidelink slideid="_player.641NLDJnkUG.6MgpvNjpB6u" displaytext="Density Data D" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
