@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="WaterPropertiesDesignProofV01" />
+              <option name="title_text" value="DesignProof" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1546,6 +1546,7 @@
         <slidelink slideid="_player.6aA2AfjBOSr" displaytext="Density Lab" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6aA2AfjBOSr.6kYLskBjXMV" displaytext="Density Lab Main" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.5xuyZExPYu3" displaytext="Density Lab Main" expand="false" type="slide" />
             <slidelink slideid="_player.6aA2AfjBOSr.6993LsR3i4I" displaytext="Density Lab Manual" expand="false" type="slide" />
             <slidelink slideid="_player.6aA2AfjBOSr.6Qsz76IDoxD" displaytext="Density Data Sheet" expand="false" type="slide" />
             <slidelink slideid="_player.6aA2AfjBOSr.6M17XAlRxPm" displaytext="Density Data B" expand="false" type="slide" />
@@ -1559,14 +1560,25 @@
             <slidelink slideid="_player.6aA2AfjBOSr.6qUqcdatBKa" displaytext="Density Lab D" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.5W7pUPuRyqV" displaytext="Solubility Lab" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5W7pUPuRyqV.6rbw5hPrqJm" displaytext="Solubility Lab Main" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.5cjhRzEf6Gp" displaytext="Solubility Video" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.5hnItuQuzTT" displaytext="Solubility Lab A" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.6SljXmGfqTp" displaytext="Solubility Lab B" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.5UgGXDjrnjj" displaytext="Solubility Lab C" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.5YQ5gmISGIN" displaytext="Solubility Lab D" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.640v7S6BAQM" displaytext="Solubility Lab Manual" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.5WHcK6AMxHJ" displaytext="Solubility Data Sheet" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.69C054nOOxj" displaytext="Solubility Data B" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.638lyqh5xDH" displaytext="Solubility Data A" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.6eLTX5WgOuj" displaytext="Solubility Data C" expand="false" type="slide" />
+            <slidelink slideid="_player.5W7pUPuRyqV.5aeVYfr4wQ6" displaytext="Solubility Data D" expand="false" type="slide" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.5eadmjCnXRD" displaytext="Temp Moderation Lab" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5eadmjCnXRD.6BgWOFoty8l" displaytext="Temp Moderation  Lab Main" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5xT6DnRQRRw" displaytext="Solubility Lab" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5xT6DnRQRRw.5z4GTdwfAqc" displaytext="Solubility Lab Main" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6SAlAqMFgpv" displaytext="Cohesion Lab" expand="true" type="slide">
@@ -1591,7 +1603,6 @@
             <slidelink slideid="_player.6Iul7A0pmJi.6T5KZtpY2BN" displaytext="Greenhouse Main" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Data Sheet Tablet" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
