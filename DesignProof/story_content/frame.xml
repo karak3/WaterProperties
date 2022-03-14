@@ -1529,6 +1529,7 @@
         <slidelink slideid="_player.5hvD2UgXDKO" displaytext="Mission Control" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5hvD2UgXDKO.63iH9EfeilI" displaytext="Control Room (Main Menu)" expand="false" type="slide" />
+            <slidelink slideid="_player.5hvD2UgXDKO.5X0fO6Dqq5w" displaytext="Control Room (Main Menu)" expand="false" type="slide" />
             <slidelink slideid="_player.5hvD2UgXDKO.6barvc5hwTW" displaytext="Data Sheet Main" expand="false" type="slide" />
             <slidelink slideid="_player.5hvD2UgXDKO.5yBRTdsHGn8" displaytext="Control Room - Labs" expand="false" type="slide" />
             <slidelink slideid="_player.5hvD2UgXDKO.6GPiGDSpQiK" displaytext="Mission Control Video" expand="false" type="slide" />
@@ -1576,14 +1577,20 @@
             <slidelink slideid="_player.5W7pUPuRyqV.5aeVYfr4wQ6" displaytext="Solubility Data D" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5eadmjCnXRD" displaytext="Temp Moderation Lab" expand="true" type="slide">
+        <slidelink slideid="_player.5pbOozsngMe" displaytext="Cohesion Lab" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5eadmjCnXRD.6BgWOFoty8l" displaytext="Temp Moderation  Lab Main" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6SAlAqMFgpv" displaytext="Cohesion Lab" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6SAlAqMFgpv.5mew3jEpE0E" displaytext="Cohesion Lab Main" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.5r5snHiEnbL" displaytext="Cohesion Lab Main" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.6dAGa34KNeo" displaytext="Cohesion Video" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.6VvLJJZ7OkJ" displaytext="Cohesion Lab A" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.6b11nMnns9W" displaytext="Cohesion Lab B" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.6noxk3LGcex" displaytext="Cohesion Lab C" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.5au6Y9GpR9V" displaytext="Cohesion Lab D" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.5cuPeB71UYZ" displaytext="Cohesion Lab Manual" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.6FkibfoitUS" displaytext="Cohesion Data Sheet" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.6J7GCmivoMJ" displaytext="Cohesion Data B" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.5xWtFvrnTCR" displaytext="Cohesion Data A" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.6BkLbZs4xvM" displaytext="Cohesion Data C" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.5Xza8DidwLQ" displaytext="Cohesion Data D" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6H75DrUs4sd" displaytext="PH Lab" expand="true" type="slide">
@@ -1596,6 +1603,18 @@
             <slidelink slideid="_player.6H75DrUs4sd.6jknjz0tlpb" displaytext="PH Data D" expand="false" type="slide" />
             <slidelink slideid="_player.6H75DrUs4sd.6T5M2fsrZz1" displaytext="PH Lab Manual" expand="false" type="slide" />
             <slidelink slideid="_player.6H75DrUs4sd.5jbdtlFaJgC" displaytext="PH Video" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6A7lJ9psybv" displaytext="Temperature Lab" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6A7lJ9psybv.6jwP8geVoYx" displaytext="Temp Lab Main" expand="false" type="slide" />
+            <slidelink slideid="_player.6A7lJ9psybv.6OgumuWvolC" displaytext="Temperature Data Sheet" expand="false" type="slide" />
+            <slidelink slideid="_player.6A7lJ9psybv.66GbBkyBesx" displaytext="Temperature Data A" expand="false" type="slide" />
+            <slidelink slideid="_player.6A7lJ9psybv.6q9FVhlyQVw" displaytext="Temperature Data B" expand="false" type="slide" />
+            <slidelink slideid="_player.6A7lJ9psybv.5YnAKCAhAKL" displaytext="Temperature Data C" expand="false" type="slide" />
+            <slidelink slideid="_player.6A7lJ9psybv.6MvKTzEpkW5" displaytext="Temperature Data D" expand="false" type="slide" />
+            <slidelink slideid="_player.6A7lJ9psybv.6rZ2sL5s4hU" displaytext="Temp Lab Manual" expand="false" type="slide" />
+            <slidelink slideid="_player.6A7lJ9psybv.5YxORmVQYC0" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6Iul7A0pmJi" displaytext="Greenhouse" expand="true" type="slide">
