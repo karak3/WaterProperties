@@ -1528,8 +1528,7 @@
         </slidelink>
         <slidelink slideid="_player.5hvD2UgXDKO" displaytext="Mission Control" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5hvD2UgXDKO.63iH9EfeilI" displaytext="Control Room" expand="false" type="slide" />
-            <slidelink slideid="_player.5hvD2UgXDKO.5X0fO6Dqq5w" displaytext="Control Room " expand="false" type="slide" />
+            <slidelink slideid="_player.5hvD2UgXDKO.63iH9EfeilI" displaytext="Control Room Beginning" expand="false" type="slide" />
             <slidelink slideid="_player.5hvD2UgXDKO.6barvc5hwTW" displaytext="Data Sheet Main" expand="false" type="slide" />
             <slidelink slideid="_player.5hvD2UgXDKO.5yBRTdsHGn8" displaytext="Control Room - Main Menu" expand="false" type="slide" />
             <slidelink slideid="_player.5hvD2UgXDKO.6GPiGDSpQiK" displaytext="Mission Control Video" expand="false" type="slide" />
@@ -1547,18 +1546,10 @@
         <slidelink slideid="_player.6aA2AfjBOSr" displaytext="Density Lab" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6aA2AfjBOSr.6kYLskBjXMV" displaytext="Density Lab Main" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.5xuyZExPYu3" displaytext="Density Lab Main" expand="false" type="slide" />
             <slidelink slideid="_player.6aA2AfjBOSr.6993LsR3i4I" displaytext="Density Lab Manual" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.6Qsz76IDoxD" displaytext="Density Data Sheet" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.6M17XAlRxPm" displaytext="Density Data B" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.6iwx1rkNszw" displaytext="Density Data A" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.6oeklZJJZp2" displaytext="Density Data C" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.6E6cjJCD5So" displaytext="Density Data D" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.6Qsz76IDoxD" displaytext="Density Data Results" expand="false" type="slide" />
+            <slidelink slideid="_player.6aA2AfjBOSr.6iwx1rkNszw" displaytext="Density Data Entry" expand="false" type="slide" />
             <slidelink slideid="_player.6aA2AfjBOSr.5ZQR3fMiUox" displaytext="Density Video" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.6nJjVbZ3sYU" displaytext="Density Lab A" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.6nl4Atm9Z9u" displaytext="Density Lab B" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.5wTHo1uTqR4" displaytext="Density Lab C" expand="false" type="slide" />
-            <slidelink slideid="_player.6aA2AfjBOSr.6qUqcdatBKa" displaytext="Density Lab D" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5W7pUPuRyqV" displaytext="Solubility Lab" expand="true" type="slide">
@@ -1583,11 +1574,8 @@
             <slidelink slideid="_player.5pbOozsngMe.6noxk3LGcex" displaytext="Cohesion Lab C" expand="false" type="slide" />
             <slidelink slideid="_player.5pbOozsngMe.5au6Y9GpR9V" displaytext="Cohesion Lab D" expand="false" type="slide" />
             <slidelink slideid="_player.5pbOozsngMe.5cuPeB71UYZ" displaytext="Cohesion Lab Manual" expand="false" type="slide" />
-            <slidelink slideid="_player.5pbOozsngMe.6FkibfoitUS" displaytext="Cohesion Data Sheet" expand="false" type="slide" />
-            <slidelink slideid="_player.5pbOozsngMe.6J7GCmivoMJ" displaytext="Cohesion Data B" expand="false" type="slide" />
-            <slidelink slideid="_player.5pbOozsngMe.5xWtFvrnTCR" displaytext="Cohesion Data A" expand="false" type="slide" />
-            <slidelink slideid="_player.5pbOozsngMe.6BkLbZs4xvM" displaytext="Cohesion Data C" expand="false" type="slide" />
-            <slidelink slideid="_player.5pbOozsngMe.5Xza8DidwLQ" displaytext="Cohesion Data D" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.6FkibfoitUS" displaytext="Cohesion Data Results" expand="false" type="slide" />
+            <slidelink slideid="_player.5pbOozsngMe.5xWtFvrnTCR" displaytext="Cohesion Data Entry" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6H75DrUs4sd" displaytext="PH Lab" expand="true" type="slide">
